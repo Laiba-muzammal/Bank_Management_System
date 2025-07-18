@@ -76,14 +76,6 @@ python main.py
 
 ---
 
-#### 🔧 Fututre Additions
-Add JSON or SQLite for data persistence
-Add password hashing with hashlib
-Convert CLI to Flask app
-Export transaction history to CSV
-
----
-
 ### 👩‍💻 Author
 Laiba Muzammal
 Backend Developer | Python & Flask Enthusiast
